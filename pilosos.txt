@@ -1,7 +1,20 @@
 poema
 linea uno
 Nueva linea
+<<<<<<< HEAD
+linea tress
+=======
 linea tres
 
 hola
+<<<<<<< HEAD
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+=======
+<<<<<<< HEAD
+>>>>>>> 6c9696596b608ace47be5330b026eeedd7273ae4
+=======
+
+linea cuatro
+>>>>>>> 0350a7262ab9f94ac8d1431e4f8aa6d91c2e4032
+>>>>>>> 0167d71b03c0c0a5667a3651856352fed7f4c951
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever sinc
