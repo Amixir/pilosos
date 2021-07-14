@@ -7,4 +7,9 @@ linea tress
 linea tres
 
 hola
+<<<<<<< HEAD
 >>>>>>> 6c9696596b608ace47be5330b026eeedd7273ae4
+=======
+
+linea cuatro
+>>>>>>> 0350a7262ab9f94ac8d1431e4f8aa6d91c2e4032
