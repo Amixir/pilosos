@@ -1,4 +1,10 @@
 poema
 linea uno
 Nueva linea
+<<<<<<< HEAD
 linea tress
+=======
+linea tres
+
+hola
+>>>>>>> 6c9696596b608ace47be5330b026eeedd7273ae4
